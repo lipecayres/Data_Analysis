@@ -33,21 +33,22 @@ The main objective of this project is to analyze the performance of a cookie man
 
 This analysis shows four differente Control Charts - p, beta, CUSUM and EWMA - to be sure that the process is really stable and has no special causes (ocurrences out of the control limits).
 
-p Chart: No ocurrences of special causes, so the process is stable.
+**p Chart:** No ocurrences of special causes, so the process is stable.
 
 ![image](https://raw.githubusercontent.com/lipecayres/academics/main/cookie_process/images/1.pChart.png)
 
-beta Chart: There's an ocurrence out of the control limit.It's a unique ocurrence between controled ocurrences, so the conclusion is that this ocurrence is a false alarm. So, we also can conclude that beta chart get a stable analysis.
+**beta Chart:** There's an ocurrence out of the control limit.It's a unique ocurrence between controled ocurrences, so the conclusion is that this ocurrence is a false alarm. So, we also can conclude that beta chart get a stable analysis.
 
 ![image](https://raw.githubusercontent.com/lipecayres/academics/main/cookie_process/images/2.betaChart.png)
 
-CUSUM Chart: No ocurrences of special causes. Stable process.
+**CUSUM Chart:** No ocurrences of special causes. Stable process.
 
 ![image](https://raw.githubusercontent.com/lipecayres/academics/main/cookie_process/images/3.cusumChart.png)
 
-EWMA Chart: No ocurrences of special causes. Stable process.
+**EWMA Chart:** No ocurrences of special causes. Stable process.
 
 ![image](https://raw.githubusercontent.com/lipecayres/academics/main/cookie_process/images/4.ewmaChart.png)
+
 
 #### Capability Analysis
 
@@ -55,11 +56,13 @@ The process capability analysis considering the specification limits defined by 
 
 ![image](https://raw.githubusercontent.com/lipecayres/academics/main/cookie_process/images/5.CapabilityAnalysis.png)
 
+
 #### Taguchi Loss Function
 
-For this cookie manufacturing process, the metrics recorded are: production of 7168 cookies per minute; cost of loss per unit of R$0.0051; process target value (t) of 0.136 (13.6% cookie weight loss); and a tolerance variation (delta) of 0.05. The definition of these metrics established a quality loss coefficient (k) of R$ 2.04 and a Taguchi loss function that can be represented by the equation LF = 2.04 * (y – 0.136)^2
+For this cookie manufacturing process, the metrics recorded are: production of 7168 cookies per minute; cost of loss per unit of R$ 2.04 (BRL) and a Taguchi loss function that can be represented by the equation LF = 2.04 * (y – 0.136)^2
 
 ![image](https://raw.githubusercontent.com/lipecayres/academics/main/cookie_process/images/6.TaguchiLossFunction.png)
+
 
 ### Conclusion
 
@@ -73,5 +76,5 @@ The Statistical Quality Control techniques provided the company a better control
 
 ## References
 
-`<a id="1">`[1]`</a>`
-CAYRES, Felipe Simões. Statistical quality control applied to the cookie production. Year 2022. Dissertation (Master’s in Industrial Engineering) – Federal University of Bahia, Brazil.
+[1] CAYRES, Felipe Simões. Statistical quality control applied to the cookie production.
+Year 2022. Dissertation (Master's in Industrial Engineering) – Federal University of Bahia, Brazil.
