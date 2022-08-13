@@ -10,7 +10,8 @@ Statistical quality control consisted of the following approaches: Stability Ana
 
 The quality loss analysis evaluated the process through the Taguchi loss function. The analyzes concluded that the process is stable, and can be characterized as a capable process (𝐶𝑝𝑘 > 1)  with a sigma level of 3,89𝜎, in addition to presenting small losses in the process (k = R$2,04).  The evaluation of the sigma level indicates that the process can improve to sigma level = 5,85𝜎 with actions only to centralize the process average to the target value, which would represent an improvement of 1,96𝜎.
 
-#### Main Objectives Perguntas orientadoras da análise
+
+#### Main Objectives
 
 * Stability Analysis of the cookie manufacturing process
 * Capability Analysis of the cookie manufacturing process
@@ -33,6 +34,7 @@ The main objective of this project is to analyze the performance of a cookie man
 
 This analysis shows four differente Control Charts - p, beta, CUSUM and EWMA - to be sure that the process is really stable and has no special causes (ocurrences out of the control limits).
 
+
 **p Chart:** No ocurrences of special causes, so the process is stable.
 
 ![image](https://raw.githubusercontent.com/lipecayres/academics/main/cookie_process/images/1.pChart.png)
@@ -52,20 +54,17 @@ This analysis shows four differente Control Charts - p, beta, CUSUM and EWMA - t
 
 ![image](https://raw.githubusercontent.com/lipecayres/academics/main/cookie_process/images/4.ewmaChart.png)
 
-
 #### Capability Analysis
 
 The process capability analysis considering the specification limits defined by t = 0.136, LIE = 0.10 and LSE = 0.17 provided the capability indices 𝐶𝑝 = 1.4756 and 𝐶𝑝𝑘 = 1.1509 being adherent to the results of the company's quality indicators
 
 ![image](https://raw.githubusercontent.com/lipecayres/academics/main/cookie_process/images/5.CapabilityAnalysis.png)
 
-
 #### Taguchi Loss Function
 
 For this cookie manufacturing process, the metrics recorded are: production of 7168 cookies per minute; cost of loss per unit of R$ 2.04 (BRL) and a Taguchi loss function that can be represented by the equation LF = 2.04 * (y – 0.136)^2
 
 ![image](https://raw.githubusercontent.com/lipecayres/academics/main/cookie_process/images/6.TaguchiLossFunction.png)
-
 
 ### Conclusion:
 
