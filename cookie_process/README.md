@@ -1,4 +1,4 @@
-# Data Visualization: Statistical Quality Control - Cookie Production Process
+# Data Visualization: Statistical Quality Control - Cookie Production
 
 #### RESUMEE
 
