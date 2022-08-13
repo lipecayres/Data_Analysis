@@ -33,7 +33,6 @@ The main objective of this project is to analyze the performance of a cookie man
 
 This analysis shows four differente Control Charts - p, beta, CUSUM and EWMA - to be sure that the process is really stable and has no special causes (ocurrences out of the control limits).
 
-
 **p Chart:** No ocurrences of special causes, so the process is stable.
 
 ![image](https://raw.githubusercontent.com/lipecayres/academics/main/cookie_process/images/1.pChart.png)
@@ -68,8 +67,7 @@ For this cookie manufacturing process, the metrics recorded are: production of 7
 ![image](https://raw.githubusercontent.com/lipecayres/academics/main/cookie_process/images/6.TaguchiLossFunction.png)
 
 
-### Conclusion
-
+### Conclusion:
 
 **Stability Analysis:** It allowed a diagnosis of a stable process by using robust control charts for monitoring, allowing a better precision of the process, adhering to the results of the company's quality indicators.
 
@@ -77,9 +75,7 @@ For this cookie manufacturing process, the metrics recorded are: production of 7
 
 **Taguchi Loss Function:** The value of the loss coefficient (k = R$2.04) was considered low, indicating a small loss of quality.
 
-
 The Statistical Quality Control techniques provided the company a better control of its production process, enabling the reduction of quality losses such as reprocessing, overweight and product disposal. This analysis enabled a greater understanding about the process performance , seeking to identify special causes and contributing to quality control.
-
 
 ## References
 
