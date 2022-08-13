@@ -35,33 +35,33 @@ This analysis shows four differente Control Charts - p, beta, CUSUM and EWMA - t
 
 p Chart: No ocurrences of special causes, so the process is stable.  
  
-![image](https://user-images.githubusercontent.com/77032413/182972550-d5d9f09e-4ae3-4fe1-b403-e85882b4f6fe.png) ![image](https://user-images.githubusercontent.com/77032413/182973387-664c4831-ec98-48b6-9e62-13ab5de7444c.png)
+![image](https://raw.githubusercontent.com/lipecayres/academics/main/cookie_process/images/1.pChart.png) 
 
 beta Chart: There's an ocurrence out of the control limit.It's a unique ocurrence between controled ocurrences, so the conclusion is that this ocurrence is a false alarm. So, we also can conclude that beta chart get a stable analysis.
 
-![image](https://user-images.githubusercontent.com/77032413/182972550-d5d9f09e-4ae3-4fe1-b403-e85882b4f6fe.png) ![image](https://user-images.githubusercontent.com/77032413/182973387-664c4831-ec98-48b6-9e62-13ab5de7444c.png)
+![image](https://raw.githubusercontent.com/lipecayres/academics/main/cookie_process/images/2.betaChart.png) 
 
 CUSUM Chart: No ocurrences of special causes. Stable process. 
 
-![image](https://user-images.githubusercontent.com/77032413/182972550-d5d9f09e-4ae3-4fe1-b403-e85882b4f6fe.png) ![image](https://user-images.githubusercontent.com/77032413/182973387-664c4831-ec98-48b6-9e62-13ab5de7444c.png)
+![image](https://raw.githubusercontent.com/lipecayres/academics/main/cookie_process/images/3.cusumChart.png)
 
 EWMA Chart: No ocurrences of special causes. Stable process. 
 
-![image](https://user-images.githubusercontent.com/77032413/182972550-d5d9f09e-4ae3-4fe1-b403-e85882b4f6fe.png) ![image](https://user-images.githubusercontent.com/77032413/182973387-664c4831-ec98-48b6-9e62-13ab5de7444c.png)
+![image](https://raw.githubusercontent.com/lipecayres/academics/main/cookie_process/images/4.ewmaChart.png)
 
 
 #### Capability Analysis
 
 The process capability analysis considering the specification limits defined by t = 0.136, LIE = 0.10 and LSE = 0.17 provided the capability indices 𝐶𝑝 = 1.4756 and 𝐶𝑝𝑘 = 1.1509 being adherent to the results of the company's quality indicators
 
-![image](https://user-images.githubusercontent.com/77032413/182042058-40b63fe0-6756-4311-ad6d-ebb0e60f69d0.png)
+![image](https://raw.githubusercontent.com/lipecayres/academics/main/cookie_process/images/5.CapabilityAnalysis.png)
 
 
 #### Taguchi Loss Function
 
 For this cookie manufacturing process, the metrics recorded are: production of 7168 cookies per minute; cost of loss per unit of R$0.0051; process target value (t) of 0.136 (13.6% cookie weight loss); and a tolerance variation (delta) of 0.05. The definition of these metrics established a quality loss coefficient (k) of R$ 2.04 and a Taguchi loss function that can be represented by the equation LF = 2.04 * (y – 0.136)^2
 
-![image](https://user-images.githubusercontent.com/77032413/182972242-90bb5215-ccff-4740-8992-9a0a1bd1fcb6.png) ![image](https://user-images.githubusercontent.com/77032413/182972381-247dc054-42dd-427a-b95c-bc728f58a50e.png)
+![image](https://raw.githubusercontent.com/lipecayres/academics/main/cookie_process/images/6.TaguchiLossFunction.png)
 
 
 ### Conclusion
