@@ -33,17 +33,21 @@ The main objective of this project is to analyze the performance of a cookie man
 
 This analysis shows four differente Control Charts - p, beta, CUSUM and EWMA - to be sure that the process is really stable and has no special causes (ocurrences out of the control limits).
 
+
 **p Chart:** No ocurrences of special causes, so the process is stable.
 
 ![image](https://raw.githubusercontent.com/lipecayres/academics/main/cookie_process/images/1.pChart.png)
+
 
 **beta Chart:** There's an ocurrence out of the control limit.It's a unique ocurrence between controled ocurrences, so the conclusion is that this ocurrence is a false alarm. So, we also can conclude that beta chart get a stable analysis.
 
 ![image](https://raw.githubusercontent.com/lipecayres/academics/main/cookie_process/images/2.betaChart.png)
 
+
 **CUSUM Chart:** No ocurrences of special causes. Stable process.
 
 ![image](https://raw.githubusercontent.com/lipecayres/academics/main/cookie_process/images/3.cusumChart.png)
+
 
 **EWMA Chart:** No ocurrences of special causes. Stable process.
 
@@ -66,13 +70,16 @@ For this cookie manufacturing process, the metrics recorded are: production of 7
 
 ### Conclusion
 
-Stability Analysis: It allowed a diagnosis of a stable process by using robust control charts for monitoring, allowing a better precision of the process, adhering to the results of the company's quality indicators.
 
-Capability Analysis: The capacity indices were calculated considering the specification limits for the weight loss ratio defined for the production of 𝐿𝐼𝐸 = 0.10 and 𝐿𝑆𝐸 = 0.17, provided the capacity index values 𝐶𝑝 of 1.47 and 𝐶𝑝𝑘 of 1.15 considering the process as capable.
+**Stability Analysis:** It allowed a diagnosis of a stable process by using robust control charts for monitoring, allowing a better precision of the process, adhering to the results of the company's quality indicators.
 
-Taguchi Loss Function: The value of the loss coefficient (k = R$2.04) was considered low, indicating a small loss of quality.
+**Capability Analysis:** The capacity indices were calculated considering the specification limits for the weight loss ratio defined for the production of 𝐿𝐼𝐸 = 0.10 and 𝐿𝑆𝐸 = 0.17, provided the capacity index values 𝐶𝑝 of 1.47 and 𝐶𝑝𝑘 of 1.15 considering the process as capable.
+
+**Taguchi Loss Function:** The value of the loss coefficient (k = R$2.04) was considered low, indicating a small loss of quality.
+
 
 The Statistical Quality Control techniques provided the company a better control of its production process, enabling the reduction of quality losses such as reprocessing, overweight and product disposal. This analysis enabled a greater understanding about the process performance , seeking to identify special causes and contributing to quality control.
+
 
 ## References
 
