@@ -1,2 +1,2 @@
-# academics
-academics codes
+# Data Analysis
+Codes of Data Analysis
